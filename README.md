@@ -1,0 +1,3 @@
+Appli qui permet de voir les sons et artistes présents sur Itunes via son api. 
+Vous avez la possibilité d'entrer en details sur les sons vous avoir des infos complémentaires comme l'album, le temps, le genre etc... 
+Vous pouvez aussi mettre en favoris vos sons.
